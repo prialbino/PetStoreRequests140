@@ -1,0 +1,3 @@
+pet_id,category_id,category_name,pet_name,tags,status
+21766,2,cat,Garfield,1-vacinado;2-vermifugado,available
+21767,3,fish,Nemo,3-raro,available
